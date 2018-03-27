@@ -5,3 +5,6 @@ When you initialize a repository this creates a new subdirectory named .git that
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 The staging area offers an intermediate place to review and or perform any quality control measures.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can check the changes by running git diff --staged to verify your logical changes.
