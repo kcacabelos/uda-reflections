@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository this creates a new subdirectory named .git that contains all of your necessary repository files — a Git repository skeleton. At this point, nothing in your project is tracked yet.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area offers an intermediate place to review and or perform any quality control measures.
