@@ -16,3 +16,7 @@ Some situations when making branches would be helpful would be when you want to 
 How do the diagrams help you visualize the branch structure?
 
 The diagrams help visualize the structure of the branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+the result of two branches takes the changes from both codes and creates a new merged branch.
