@@ -11,4 +11,8 @@ You can check the changes by running git diff --staged to verify your logical ch
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-Some situations when making branches would be helpful would be when you want to experiment with a logical change. Using a branch would help by letting the user continue to grow a branch without effecting the master. 
+Some situations when making branches would be helpful would be when you want to experiment with a logical change. Using a branch would help by letting the user continue to grow a branch without effecting the master.
+
+How do the diagrams help you visualize the branch structure?
+
+The diagrams help visualize the structure of the branches.
